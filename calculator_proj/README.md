@@ -1,16 +1,7 @@
 # calculator_proj
 
-A new Flutter project.
+This is my first project with Dart and Flutter. A simple calculator responsive.
+The purpose of this is to know the basics of Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/9885f723-b8b2-40b4-847e-2a705cc092a8)
+![image](https://github.com/user-attachments/assets/73d9ade2-1357-4254-a23e-63cfa58a16d6)
